@@ -13,7 +13,7 @@ A simple and engaging web application that generates random quotes to inspire, m
 
 ## Demo
 
-[Live Demo](#) (Replace this with your live deployment URL)
+[Live Demo](#) (https://eslammamdouh24.github.io/quote-generator)
 
 ![Preview Screenshot](#) (images/screenshot.png)
 
