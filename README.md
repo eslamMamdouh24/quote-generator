@@ -33,5 +33,5 @@ Make sure you have a modern web browser and a stable internet connection.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eslamMamdouh24/quote-generator.git
+   git clone https://github.com/eslammamdouh24/quote-generator.git
    cd quote-generator
