@@ -13,9 +13,9 @@ A simple and engaging web application that generates random quotes to inspire, m
 
 ## Demo
 
-[Live Demo](#) (https://eslammamdouh24.github.io/quote-generator)
+[Live Demo](https://eslammamdouh24.github.io/quote-generator)
 
-![Preview Screenshot](#) (images/screenshot.png)
+![Preview Screenshot](images/screenshot.png)
 
 ## Technologies Used
 
